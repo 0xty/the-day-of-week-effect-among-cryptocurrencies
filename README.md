@@ -5,4 +5,5 @@ While nowadays there is a growing study doing research with seasonality in crypt
 
 In this report, we study weekly anomalies in returns and volatility of the top 3 largest market capitalization cryptocurrencies (BTC, ETH, USDT) with Mean-Variance analysis and SD method via the Contact-set approach (Linton, O., Song, K., & Whang, Y. J., 2010), the Selective recentering approach (Donald, S. G., & Hsu, Y. C., 2016), and the Numerical delta method (Hong, H., & Li, J., 2018). We find the Monday effect and Saturday effect with BTC, and Monday effect and Saturday effect with ETH as well.
 
+
 Here, I'm going to show you how I do web scraping, data cleansing, statistical analysis with Python.
